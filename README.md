@@ -1,4 +1,4 @@
-# professional_portfolio_projecT
+# professional_portfolio_project
 
 	This project is a profesiopnal web application built using the PHP laravel framework
 	and the MYSQL Database as the data storage point.
