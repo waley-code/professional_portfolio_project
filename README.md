@@ -16,5 +16,5 @@
 		- Admin Dashboard
 		- Portfolio edit section
 		- Home page edit section
-		- Routes allocation
+		- Routes allocation.
 		
