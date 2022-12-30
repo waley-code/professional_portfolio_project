@@ -8,7 +8,7 @@
 		- About page
 		- Homepage
 		- Portfoliuo page
-		- Blog page.
+		- Blog page
 	
 	- Back-end
 		- Authentication
